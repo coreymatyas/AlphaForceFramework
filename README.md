@@ -1,11 +1,13 @@
-	  ___  _       _          ______                 
-	 / _ \| |     | |         |  ___|                
-	/ /_\ \ |_ __ | |__   __ _| |_ ___  _ __ ___ ___ 
-	|  _  | | '_ \| '_ \ / _` |  _/ _ \| '__/ __/ _ \
-	| | | | | |_) | | | | (_| | || (_) | | | (_|  __/
-	\_| |_/_| .__/|_| |_|\__,_\_| \___/|_|  \___\___|
-	        | |                                      
-	        |_|                                      
+<pre>
+  ___  _       _          ______                 
+ / _ \| |     | |         |  ___|                
+/ /_\ \ |_ __ | |__   __ _| |_ ___  _ __ ___ ___ 
+|  _  | | '_ \| '_ \ / _` |  _/ _ \| '__/ __/ _ \
+| | | | | |_) | | | | (_| | || (_) | | | (_|  __/
+\_| |_/_| .__/|_| |_|\__,_\_| \___/|_|  \___\___|
+        | |                                      
+        |_|   
+</pre>                                   
 
 # AlphaForceFramework
 ## Corey Matyas
@@ -14,6 +16,9 @@ Licensed under the MIT License - See COPYING for full license text
 AlphaForceFramework is a full Java IRC framework I created for my entry in the [dreamincode.net](http://www.dreamincode.net/) IRC bot-making contest in 2011.
 I had the full source published on Github originally, but for some reason I seem to have deleted the repository. Hosting this back up here to aid other 
 bot makers in the development of IRC bots.
+
+### Requirements
+* Java v1.6+ (earliest tested version; may be compatible with earlier versions)
 
 ### Features
 * Interface to the IRC protocol
